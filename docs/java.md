@@ -449,7 +449,7 @@ Find control:
 
 Output control:
   -a, --absolute-path    always print absolute path of jar file
-  -s, --seperator        seperator for jar file and file entry, default is `!'.
+  -s, --separator        separator for jar file and file entry, default is `!'.
 
 Miscellaneous:
   -h, --help             display this help and exit
